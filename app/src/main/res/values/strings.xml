@@ -1,0 +1,26 @@
+<resources>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="app_name">Said ELHABHAB </string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout </string>
+    <string name="password">Password</string>
+    <string name="repassword">Confirm_Password</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="connection">Se Connecter</string>
+    <string name="compte">Numero de compte:</string>
+    <string name="ref">Reference:</string>
+    <string name="solde">Solde:</string>
+    <string name="montant">Montant:</string>
+    <string name="date">Date:</string>
+    <string name="desc">Description:</string>
+    <string name="navi"> Close</string>
+
+    <string name="navigation_drawer_open"> Open navigation drawer</string>
+    <string name="navigation_drawer_close"> Close navigation drawer</string>
+    <string name="googleApi">AIzaSyCjCCBZig525kEux3r2myVblM5skLv0kwY</string>
+
+</resources>
